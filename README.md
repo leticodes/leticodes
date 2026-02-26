@@ -6,9 +6,7 @@ Me chamo Letícia Sousa, tenho 28 anos e sou natural de Osasco/SP. Sou formada e
 Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvimento Frontend, unindo criatividade e lógica para construir interfaces modernas, funcionais, intuitivas e bem estruturadas, com ótima experiência para o usuário.
 <p align="left">
 
----
-
-## 🤳🏽Conecte-se comigo!
+### 🤳🏽Conecte-se comigo!
 
 <a href="https://github.com/leticodes?tab=followers">
         <img 
