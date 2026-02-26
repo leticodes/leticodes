@@ -22,8 +22,6 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
     </a>
 </p>
 
----
-
 ### 🤖 Linguagens e Ferramentas
 
 <img 
