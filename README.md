@@ -8,21 +8,23 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
 
 ### 🤳🏽Conecte-se comigo!
 
-<a href="https://github.com/leticodes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leticodes?color=dbc5cf&labelColor=dbc5cf&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
- <a href="https://github.com/leticodes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leticodes?color=dbc5cf&style=for-the-badge&labelColor=dbc5cf&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+<div>
+  <a href="https://github.com/leticodes?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/leticodes?color=dbc5cf&labelColor=dbc5cf&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&textColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/leticodes?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/leticodes?color=dbc5cf&labelColor=dbc5cf&style=for-the-badge&logo=star&label=Estrelas&logoColor=white&textColor=white"
+    />
+  </a>
+</div>
 
 ### 🤖 Linguagens e Ferramentas
 
