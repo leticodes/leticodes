@@ -9,13 +9,19 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
 ### 🤳🏽Conecte-se comigo!
 
 <p align="left">
-<a href="https://github.com/leticodes?tab=followers"><img 
-  alt="Seguidores" 
-  src="https://custom-icon-badges.demolab.com/github/followers/leticodes?color=CFA0B3&labelColor=CFA0B3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-/></a><a href="https://github.com/leticodes?tab=repositories&sort=stargazers"><img 
-  alt="Total de estrelas" 
-  src="https://custom-icon-badges.demolab.com/github/stars/leticodes?color=CFA0B3&labelColor=CFA0B3&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
-/></a>
+<a href="https://github.com/leticodes?tab=followers">
+  <img 
+    style="margin-right:10px;"
+    alt="Seguidores" 
+    src="https://custom-icon-badges.demolab.com/github/followers/leticodes?color=CFA0B3&labelColor=CFA0B3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
+<a href="https://github.com/leticodes?tab=repositories&sort=stargazers">
+  <img 
+    alt="Total de estrelas" 
+    src="https://custom-icon-badges.demolab.com/github/stars/leticodes?color=CFA0B3&labelColor=CFA0B3&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
+  />
+</a>
 </p>
 
 ### 🤖 Linguagens e Ferramentas
