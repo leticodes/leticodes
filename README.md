@@ -46,6 +46,15 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
 
 <img 
     align="left" 
+    alt="VsCode" 
+    title="VsCode"
+    width="20px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+          
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="20px" 
@@ -95,6 +104,7 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticodes/leticodes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticodes/leticodes/output/github-contribution-grid-snake-dark.svg">
@@ -103,3 +113,7 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
   
 <br/>
 <br/>
+ 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7706c216-b8c3-4797-b0ef-9c85cf660fd1" width="400px" />
+</div>
