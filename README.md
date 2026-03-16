@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Letícia Sousa, tenho 28 anos e sou natural de Osasco/SP. Sou formada em Design e atualmente estou cursando uma pós-graduação em Engenharia de Software na UNICSUL.
+Me chamo Letícia Sousa, tenho 28 anos e sou natural de Osasco/SP. Sou formada em Design e atualmente estou cursando análise e desenvolvimento de sistemas na UNICSUL.
 Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvimento Frontend, unindo criatividade e lógica para construir interfaces modernas, funcionais, intuitivas e bem estruturadas, com ótima experiência para o usuário.
 <p align="left">
 
@@ -104,16 +104,12 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
+  
+<br/>
+<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticodes/leticodes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticodes/leticodes/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leticodes/leticodes/output/github-contribution-grid-snake.svg">
 </picture>
-  
-<br/>
-<br/>
- 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/7706c216-b8c3-4797-b0ef-9c85cf660fd1" width="300px" />
-</div>
