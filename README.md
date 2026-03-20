@@ -3,7 +3,7 @@
 **`Desenvolvedora de Software`**
 
 Me chamo Letícia Sousa, tenho 28 anos e sou natural de Osasco/SP. Sou formada em Design e atualmente estou cursando análise e desenvolvimento de sistemas na UNICSUL.
-Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvimento Frontend, unindo criatividade e lógica para construir interfaces modernas, funcionais, intuitivas e bem estruturadas, com ótima experiência para o usuário.
+Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvimento de software, unindo criatividade e lógica para construir interfaces modernas, funcionais, intuitivas e bem estruturadas, com ótima experiência para o usuário.
 <p align="left">
 
 ### 🤳🏽Conecte-se comigo!
