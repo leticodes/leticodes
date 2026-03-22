@@ -86,6 +86,15 @@ Sou apaixonada por tecnologia e design, e direciono meus estudos para desenvolvi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="20px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
           
 <img 
     align="left" 
